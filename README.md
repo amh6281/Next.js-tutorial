@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📽︎Movie App📽︎</h1>
+  <h1>🎦Movie App🎦</h1>
  <h4>영화 API를 활용한 Next.js 기반의 웹 사이트 입니다.</h4>
   </div>
 <div align="center">
