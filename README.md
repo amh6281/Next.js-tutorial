@@ -3,7 +3,7 @@
  <h4>영화 API를 활용한 Next.js 기반의 웹 사이트 입니다.</h4>
   </div>
 <div align="center">
-  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/83646986/148895983-f78769c3-23b2-47e8-a080-3815199a63b1.gif)
+  <img src="https://user-images.githubusercontent.com/83646986/148895983-f78769c3-23b2-47e8-a080-3815199a63b1.gif" height="500"/>
 </div>
 <br>
 
